@@ -63,11 +63,19 @@ Program to verify the truth table in quartus for the basic logic gates using Ver
 Developed by: D.Devadhaarini
 RegisterNumber: 23006001 
 */
-Logic symbol & Truthtable
-RTL realization
+Code:
+![Screenshot 2023-11-27 194913](https://github.com/Devadhaarini/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/145796552/a641a813-550b-46ab-9239-e64b427e8011)
+
+Truthtable:
+![Screenshot 2023-11-27 195056](https://github.com/Devadhaarini/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/145796552/dbe4b107-769f-432e-b691-6622248cd74a)
+
+RTL realization:
+![Screenshot 2023-11-27 192453](https://github.com/Devadhaarini/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/145796552/ca2dcd20-084a-4190-aafe-dbbb7b4391b2)
+
 Output:
-RTL 
-![Screenshot 2023-11-27 192453](https://github.com/Devadhaarini/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/145796552/ef865a7e-b146-4865-92c9-fc724276de24)
+![Screenshot 2023-11-27 200148](https://github.com/Devadhaarini/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/145796552/1a326a06-0582-4a52-a6ae-1b13b7caf7b6)
+
+
 
 Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
